@@ -1,4 +1,9 @@
-# Tic-Tac-Toe (Command Line)
+# Team Forge Capstone Project By:
+- Afia Asamoah-Frimpong
+- Edward Acheampong Asare
+- Rudolf Mosehla 
+
+# Tic-Tac-Toe
 
 A simple console tic-tac-toe game written in Python. You play against the computer, which picks its moves at random.
 
